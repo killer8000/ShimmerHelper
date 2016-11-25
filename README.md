@@ -11,4 +11,4 @@ eg:
         helper2.setColors(Color.parseColor("#ff00ff"), Color.parseColor("#00ffff"));
         helper2.start();
         
-
+    简单介绍： http://blog.csdn.net/killer991684069/article/details/53334360
